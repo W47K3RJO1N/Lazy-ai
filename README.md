@@ -77,7 +77,7 @@ npm install
 npm run dev
 ```
 
-Visit [http://localhost:3000](http://localhost:3000) in your browser. LazyFlow AI will start immediately in **Demo Mode** with realistic sample workflows.
+Visit [https://lazy-ai-roan.vercel.app/](https://lazy-ai-roan.vercel.app/) in your browser. LazyFlow AI will start immediately in **Demo Mode** with realistic sample workflows.
 
 ---
 
